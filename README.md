@@ -27,7 +27,7 @@ List
 - number 1
 - number 2
 
-##Task List 
--[x] completed  
--[ ] not completed
+##Task List   
+[x] completed  
+[ ] not completed
 
