@@ -3,5 +3,5 @@ Blah blah
 *Italics*  
 ~Strikethrough~  
 ***Bold Italics***  
-Hello <sub>subscript<sub/>   
+Hello <sub>subscript</sub>   
 <ins>underline</ins>
