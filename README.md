@@ -14,5 +14,6 @@ var dog
 console.log(cat + dog)
 ```
 ## Third heading  
-A link example is here [YouTube](https://youtube.com)
+A link example is here [YouTube](https://youtube.com)   
+Relative link [README2.md](/README2.md)
 
