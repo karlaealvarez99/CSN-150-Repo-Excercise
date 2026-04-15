@@ -5,5 +5,12 @@ Blah blah
 ***Bold Italics***  
 Hello <sub>subscript</sub>   
 <ins>underline</ins>  
-##Second heading##
-"this is a quote"
+## Second heading  
+> this is a quote  
+Below is the code  
+```
+var cat
+var dog
+console.log(cat + dog)
+```
+
