@@ -4,4 +4,4 @@ Blah blah
 ~Strikethrough~  
 ***Bold Italics***  
 Hello <sub>subscript<sub/>   
-<inc>underline<inc/>
+<ins>underline</ins>
