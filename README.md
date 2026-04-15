@@ -14,5 +14,5 @@ var dog
 console.log(cat + dog)
 ```
 ## Third heading  
-The line is here [Youtube](https://youtube.com)
+A link example is here [Youtube](https://youtube.com)
 
