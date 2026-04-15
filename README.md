@@ -1,4 +1,4 @@
-Blah blah  
+This is an excercise that highlights the features and organization of a repository file    
 **Bold excercise**  
 *Italics*  
 ~Strikethrough~  
